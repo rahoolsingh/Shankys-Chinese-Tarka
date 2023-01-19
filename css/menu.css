@@ -73,6 +73,7 @@ h1{
     transition: all .4s ease;
 }
 .order-now{
+	display: block;
     width: 100vw;
     padding-bottom: 70px;
     bottom: 0;
