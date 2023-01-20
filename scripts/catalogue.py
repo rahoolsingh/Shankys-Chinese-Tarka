@@ -18,20 +18,27 @@ data = csv_file.read()
 data = data.splitlines()
 for i in range(151):
     product = data[i].split(',')
+    filter = product[6]
     img_path = product[5]
     name = product[3]
     price = product[4]
     Category = product[1]
 
     code = '''
-<div class="col-md-4">
-    <div class="card" style="width: 18rem;">
-        <img src="'''+img_path+'''" class="card-img-top" alt="...">
-        <div class="card-body">
-            <h5 class="card-title">'''+name+'''</h5>
-            <h6 class="card-price mb-2 ">Price: ₹'''+price+'''/-</h6>
-            <p class="card-text">Category: '''+Category+'''</p>
-            <a href="#" class="btn mr-2"><i class="fas  fa-shopping-cart"></i> Add To Cart</a </div>
+<div class="col-md-4 filterDiv '''+filter+'''">
+    <div class="card">
+        <div class="card-upper">
+            <div class="card-image">
+                <img src="'''+img_path+'''" class="card-img-top" alt="...">
+            </div>
+            <div class="card-details">
+                <h5 class="card-title">'''+name+'''</h5>
+                <h6 class="card-price">Price: ₹'''+price+'''/-</h6>
+                <p class="card-text">Category: '''+Category+'''</p>
+            </div>
+        </div>
+        <div>
+            <a href="" class="btn mr-2"><i class="fas  fa-shopping-cart"></i> Add To Cart</a>
         </div>
     </div>
 </div>
