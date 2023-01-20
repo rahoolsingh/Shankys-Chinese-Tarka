@@ -23,6 +23,11 @@ for i in range(151):
     name = product[3]
     price = product[4]
     Category = product[1]
+    tag=''
+    if(product[2]==' veg '):
+        tag='veg-tag'
+    elif(product[2]=='non-veg'):
+        tag='non-veg-tag'
 
     code = '''
 <div class="col-md-4 filterDiv '''+filter+'''">
@@ -34,7 +39,7 @@ for i in range(151):
             <div class="card-details">
                 <h5 class="card-title">'''+name+'''</h5>
                 <h6 class="card-price">Price: ₹'''+price+'''/-</h6>
-                <p class="card-text">Category: '''+Category+'''</p>
+                <p class="card-text '''+tag+'''">Category: '''+Category+'''</p>
             </div>
         </div>
         <div>
@@ -45,31 +50,7 @@ for i in range(151):
 '''
 
     write(str(code))
+    # print(product)
     # input()
 
-
-
-
 print('_________DONE_________')
-
-
-# img_path='www.google.com'
-# name = 'Chicken Tikka';
-# price = '200';
-# tags = 'Chicken, Non-veg, Royal'
-
-# code='''
-# <div class="col-md-4">
-#     <div class="card" style="width: 18rem;">
-#         <img src="'''+img_path+'''" class="card-img-top" alt="...">
-#         <div class="card-body">
-#             <h5 class="card-title">'''+name+'''</h5>
-#             <h6 class="card-price mb-2 ">Price: ₹'''+price+'''/-</h6>
-#             <p class="card-text">Tags: +'''+Category+'''</p>
-#             <a href="#" class="btn mr-2"><i class="fas  fa-shopping-cart"></i> Add To Cart</a </div>
-#         </div>
-#     </div>
-# </div>
-# '''
-
-# print(code)

@@ -8,7 +8,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hot & Sour Soup</h5>
                 <h6 class="card-price">Price: ₹75/-</h6>
-                <p class="card-text">Category: Veg Soup</p>
+                <p class="card-text veg-tag">Category: Veg Soup</p>
             </div>
         </div>
         <div>
@@ -26,7 +26,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Sweet Corn Soup</h5>
                 <h6 class="card-price">Price: ₹70/-</h6>
-                <p class="card-text">Category: Veg Soup</p>
+                <p class="card-text veg-tag">Category: Veg Soup</p>
             </div>
         </div>
         <div>
@@ -44,7 +44,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Manchow Soup</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Veg Soup</p>
+                <p class="card-text veg-tag">Category: Veg Soup</p>
             </div>
         </div>
         <div>
@@ -62,7 +62,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Coriander Soup</h5>
                 <h6 class="card-price">Price: ₹70/-</h6>
-                <p class="card-text">Category: Veg Soup</p>
+                <p class="card-text veg-tag">Category: Veg Soup</p>
             </div>
         </div>
         <div>
@@ -80,7 +80,7 @@
             <div class="card-details">
                 <h5 class="card-title">Tomato Soup</h5>
                 <h6 class="card-price">Price: ₹65/-</h6>
-                <p class="card-text">Category: Veg Soup</p>
+                <p class="card-text veg-tag">Category: Veg Soup</p>
             </div>
         </div>
         <div>
@@ -98,7 +98,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Hot & Sour Soup</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Non Veg Soup</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Soup</p>
             </div>
         </div>
         <div>
@@ -116,7 +116,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Sweet Corn Soup</h5>
                 <h6 class="card-price">Price: ₹90/-</h6>
-                <p class="card-text">Category: Non Veg Soup</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Soup</p>
             </div>
         </div>
         <div>
@@ -134,7 +134,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Manchow Soup</h5>
                 <h6 class="card-price">Price: ₹90/-</h6>
-                <p class="card-text">Category: Non Veg Soup</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Soup</p>
             </div>
         </div>
         <div>
@@ -152,7 +152,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Lemon Coriander Soup</h5>
                 <h6 class="card-price">Price: ₹85/-</h6>
-                <p class="card-text">Category: Non Veg Soup</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Soup</p>
             </div>
         </div>
         <div>
@@ -170,7 +170,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Soup</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Non Veg Soup</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Soup</p>
             </div>
         </div>
         <div>
@@ -188,7 +188,7 @@
             <div class="card-details">
                 <h5 class="card-title">Egg Roll</h5>
                 <h6 class="card-price">Price: ₹50/-</h6>
-                <p class="card-text">Category: Non Veg Roll</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Roll</p>
             </div>
         </div>
         <div>
@@ -206,7 +206,7 @@
             <div class="card-details">
                 <h5 class="card-title">Double Egg Roll</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Non Veg Roll</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Roll</p>
             </div>
         </div>
         <div>
@@ -224,7 +224,7 @@
             <div class="card-details">
                 <h5 class="card-title">Single Egg Chicken Roll</h5>
                 <h6 class="card-price">Price: ₹70/-</h6>
-                <p class="card-text">Category: Non Veg Roll</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Roll</p>
             </div>
         </div>
         <div>
@@ -242,7 +242,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Roll</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Non Veg Roll</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Roll</p>
             </div>
         </div>
         <div>
@@ -260,7 +260,7 @@
             <div class="card-details">
                 <h5 class="card-title">Double Egg Chicken Roll</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Non Veg Roll</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Roll</p>
             </div>
         </div>
         <div>
@@ -278,7 +278,7 @@
             <div class="card-details">
                 <h5 class="card-title">Double Egg Chicken Cheese Roll</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Non Veg Roll</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Roll</p>
             </div>
         </div>
         <div>
@@ -296,7 +296,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Egg Tikka Roll</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Non Veg Roll</p>
+                <p class="card-text non-veg-tag">Category: Non Veg Roll</p>
             </div>
         </div>
         <div>
@@ -314,7 +314,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Roll</h5>
                 <h6 class="card-price">Price: ₹50/-</h6>
-                <p class="card-text">Category: Veg Roll</p>
+                <p class="card-text veg-tag">Category: Veg Roll</p>
             </div>
         </div>
         <div>
@@ -332,7 +332,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Roll</h5>
                 <h6 class="card-price">Price: ₹70/-</h6>
-                <p class="card-text">Category: Veg Roll</p>
+                <p class="card-text veg-tag">Category: Veg Roll</p>
             </div>
         </div>
         <div>
@@ -350,7 +350,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Cheese Roll</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Veg Roll</p>
+                <p class="card-text veg-tag">Category: Veg Roll</p>
             </div>
         </div>
         <div>
@@ -368,7 +368,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Roll</h5>
                 <h6 class="card-price">Price: ₹75/-</h6>
-                <p class="card-text">Category: Veg Roll</p>
+                <p class="card-text veg-tag">Category: Veg Roll</p>
             </div>
         </div>
         <div>
@@ -386,7 +386,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mix Roll</h5>
                 <h6 class="card-price">Price: ₹90/-</h6>
-                <p class="card-text">Category: Veg Roll</p>
+                <p class="card-text veg-tag">Category: Veg Roll</p>
             </div>
         </div>
         <div>
@@ -404,7 +404,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Chilli (12 PC)</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -422,7 +422,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer 65 (12PC)</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -440,7 +440,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Manchurian (12PC)</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -458,7 +458,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Hot Garlic Sausage (12PC)</h5>
                 <h6 class="card-price">Price: ₹180/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -476,7 +476,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Sweet Garlic Sausage (12PC)</h5>
                 <h6 class="card-price">Price: ₹180/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -494,7 +494,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Chilli</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -512,7 +512,7 @@
             <div class="card-details">
                 <h5 class="card-title">Crispy Baby Corn Chilli</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -530,7 +530,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Salt Pepper</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -548,7 +548,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Pakoda (8PC)</h5>
                 <h6 class="card-price">Price: ₹150/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -566,7 +566,7 @@
             <div class="card-details">
                 <h5 class="card-title">Seasonal Gobi Manchurian Chilli</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Chinese Veg</p>
+                <p class="card-text veg-tag">Category: Chinese Veg</p>
             </div>
         </div>
         <div>
@@ -584,7 +584,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Chilli Boneless (8PC) - H</h5>
                 <h6 class="card-price">Price: ₹110/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -602,7 +602,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Chilli Boneless (16PC) - F</h5>
                 <h6 class="card-price">Price: ₹200/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -620,7 +620,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken 65 (12PC)</h5>
                 <h6 class="card-price">Price: ₹190/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -638,7 +638,7 @@
             <div class="card-details">
                 <h5 class="card-title">Crispy Honey Chicken (10PC)</h5>
                 <h6 class="card-price">Price: ₹210/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -656,7 +656,7 @@
             <div class="card-details">
                 <h5 class="card-title">Crispy Chicken (10PC)</h5>
                 <h6 class="card-price">Price: ₹200/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -674,7 +674,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Kaleji Pot Chilli (8PC) - H</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -692,7 +692,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Kaleji Pot Chilli (16PC) - F</h5>
                 <h6 class="card-price">Price: ₹180/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -710,7 +710,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Kaleji Pot Pakoda (8PC) - H</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -728,7 +728,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Kaleji Pot Pakoda (16PC) - F</h5>
                 <h6 class="card-price">Price: ₹180/-</h6>
-                <p class="card-text">Category: Chinese Non Veg</p>
+                <p class="card-text non-veg-tag">Category: Chinese Non Veg</p>
             </div>
         </div>
         <div>
@@ -746,7 +746,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Noodles - H</h5>
                 <h6 class="card-price">Price: ₹70/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -764,7 +764,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Noodles - F</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -782,7 +782,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Hot Garlic Noodles - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -800,7 +800,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Hot Garlic Noodles - F</h5>
                 <h6 class="card-price">Price: ₹150/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -818,7 +818,7 @@
             <div class="card-details">
                 <h5 class="card-title">Brown Chicken Garlic Noodles - H</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -836,7 +836,7 @@
             <div class="card-details">
                 <h5 class="card-title">Brown Chicken Garlic Noodles - F</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -854,7 +854,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Schezwan Noodles - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -872,7 +872,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Schezwan Noodles - F</h5>
                 <h6 class="card-price">Price: ₹150/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -890,7 +890,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Chop Suey</h5>
                 <h6 class="card-price">Price: ₹190/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -908,7 +908,7 @@
             <div class="card-details">
                 <h5 class="card-title">Egg Noodles - H</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -926,7 +926,7 @@
             <div class="card-details">
                 <h5 class="card-title">Egg Noodles - F</h5>
                 <h6 class="card-price">Price: ₹120/-</h6>
-                <p class="card-text">Category: Noodles (Non Veg)</p>
+                <p class="card-text non-veg-tag">Category: Noodles (Non Veg)</p>
             </div>
         </div>
         <div>
@@ -944,7 +944,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hakka Noodles - H</h5>
                 <h6 class="card-price">Price: ₹50/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -962,7 +962,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hakka Noodles - F</h5>
                 <h6 class="card-price">Price: ₹90/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -980,7 +980,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hakka Noodles Schezwan - H</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -998,7 +998,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hakka Noodles Schezwan - F</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1016,7 +1016,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hongkong Noodles - H</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1034,7 +1034,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hongkong Noodles - F</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1052,7 +1052,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Noodles - H</h5>
                 <h6 class="card-price">Price: ₹70/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1070,7 +1070,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Noodles - F</h5>
                 <h6 class="card-price">Price: ₹130/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1088,7 +1088,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Noodles - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1106,7 +1106,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Noodles - F</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1124,7 +1124,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Mix Noodles - H</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1142,7 +1142,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Mix Noodles - F</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1160,7 +1160,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hot Garlic Noodles - H</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1178,7 +1178,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hot Garlic Noodles - F</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1196,7 +1196,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Hot Garlic Noodles - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1214,7 +1214,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Hot Garlic Noodles - F</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Noodles (Veg)</p>
+                <p class="card-text ">Category: Noodles (Veg)</p>
             </div>
         </div>
         <div>
@@ -1232,7 +1232,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1250,7 +1250,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹110/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1268,7 +1268,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Mix Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1286,7 +1286,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Mix Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹150/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1304,7 +1304,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1322,7 +1322,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1340,7 +1340,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hot Garlic Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹70/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1358,7 +1358,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hot Garlic Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹130/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1376,7 +1376,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Brown Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1394,7 +1394,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Brown Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹150/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1412,7 +1412,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Schezwan Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1430,7 +1430,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Schezwan Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1448,7 +1448,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hongkong Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1466,7 +1466,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hongkong Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1484,7 +1484,7 @@
             <div class="card-details">
                 <h5 class="card-title">Kashmiri Pulao</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1502,7 +1502,7 @@
             <div class="card-details">
                 <h5 class="card-title">Jeera Rice - H</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1520,7 +1520,7 @@
             <div class="card-details">
                 <h5 class="card-title">Jeera Rice - F</h5>
                 <h6 class="card-price">Price: ₹95/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1538,7 +1538,7 @@
             <div class="card-details">
                 <h5 class="card-title">Plain Rice</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1556,7 +1556,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Pulao</h5>
                 <h6 class="card-price">Price: ₹120/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1574,7 +1574,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Biryani</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Rice (Veg)</p>
+                <p class="card-text ">Category: Rice (Veg)</p>
             </div>
         </div>
         <div>
@@ -1592,7 +1592,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Biryani (2PC)</h5>
                 <h6 class="card-price">Price: ₹190/-</h6>
-                <p class="card-text">Category: Rice (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Rice (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1610,7 +1610,7 @@
             <div class="card-details">
                 <h5 class="card-title">Egg Biryani</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Rice (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Rice (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1628,7 +1628,7 @@
             <div class="card-details">
                 <h5 class="card-title">Egg Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Rice (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Rice (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1646,7 +1646,7 @@
             <div class="card-details">
                 <h5 class="card-title">Egg Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹140/-</h6>
-                <p class="card-text">Category: Rice (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Rice (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1664,7 +1664,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Fry Rice - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Rice (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Rice (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1682,7 +1682,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Fry Rice - F</h5>
                 <h6 class="card-price">Price: ₹150/-</h6>
-                <p class="card-text">Category: Rice (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Rice (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1700,7 +1700,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mix Fry Rice Chicken Egg - H</h5>
                 <h6 class="card-price">Price: ₹100/-</h6>
-                <p class="card-text">Category: Rice (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Rice (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1718,7 +1718,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mix Fry Rice Chicken Egg - F</h5>
                 <h6 class="card-price">Price: ₹180/-</h6>
-                <p class="card-text">Category: Rice (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Rice (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1736,7 +1736,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Tandoori (2PC)</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1754,7 +1754,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Tandoori (4PC)</h5>
                 <h6 class="card-price">Price: ₹320/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1772,7 +1772,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Tikka (8PC)</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1790,7 +1790,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Malai Tikka (8PC)</h5>
                 <h6 class="card-price">Price: ₹200/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1808,7 +1808,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Reshmi Kabab (8PC)</h5>
                 <h6 class="card-price">Price: ₹180/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1826,7 +1826,7 @@
             <div class="card-details">
                 <h5 class="card-title">Punjabi Murg Kabab (4PC)</h5>
                 <h6 class="card-price">Price: ₹210/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1844,7 +1844,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Afgani Kabab (4PC)</h5>
                 <h6 class="card-price">Price: ₹200/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1862,7 +1862,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Leg Kabab (1PC)</h5>
                 <h6 class="card-price">Price: ₹90/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1880,7 +1880,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chatpata Murg Kabab (4PC)</h5>
                 <h6 class="card-price">Price: ₹230/-</h6>
-                <p class="card-text">Category: Tandoori (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Tandoori (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -1898,7 +1898,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Tikka (8PC)</h5>
                 <h6 class="card-price">Price: ₹180/-</h6>
-                <p class="card-text">Category: Tandoori (Veg)</p>
+                <p class="card-text ">Category: Tandoori (Veg)</p>
             </div>
         </div>
         <div>
@@ -1916,7 +1916,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Malai Tikka (8PC)</h5>
                 <h6 class="card-price">Price: ₹190/-</h6>
-                <p class="card-text">Category: Tandoori (Veg)</p>
+                <p class="card-text ">Category: Tandoori (Veg)</p>
             </div>
         </div>
         <div>
@@ -1934,7 +1934,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Hyderabadi Tikka (8PC)</h5>
                 <h6 class="card-price">Price: ₹190/-</h6>
-                <p class="card-text">Category: Tandoori (Veg)</p>
+                <p class="card-text ">Category: Tandoori (Veg)</p>
             </div>
         </div>
         <div>
@@ -1952,7 +1952,7 @@
             <div class="card-details">
                 <h5 class="card-title">Haryali Paneer Tikka (8PC)</h5>
                 <h6 class="card-price">Price: ₹190/-</h6>
-                <p class="card-text">Category: Tandoori (Veg)</p>
+                <p class="card-text ">Category: Tandoori (Veg)</p>
             </div>
         </div>
         <div>
@@ -1970,7 +1970,7 @@
             <div class="card-details">
                 <h5 class="card-title">Tandoori Roti</h5>
                 <h6 class="card-price">Price: ₹10/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -1988,7 +1988,7 @@
             <div class="card-details">
                 <h5 class="card-title">Butter Roti</h5>
                 <h6 class="card-price">Price: ₹15/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2006,7 +2006,7 @@
             <div class="card-details">
                 <h5 class="card-title">Naan</h5>
                 <h6 class="card-price">Price: ₹25/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2024,7 +2024,7 @@
             <div class="card-details">
                 <h5 class="card-title">Butter Naan</h5>
                 <h6 class="card-price">Price: ₹30/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2042,7 +2042,7 @@
             <div class="card-details">
                 <h5 class="card-title">Masala Naan</h5>
                 <h6 class="card-price">Price: ₹50/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2060,7 +2060,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Naan</h5>
                 <h6 class="card-price">Price: ₹70/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2078,7 +2078,7 @@
             <div class="card-details">
                 <h5 class="card-title">Garlic Naam</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2096,7 +2096,7 @@
             <div class="card-details">
                 <h5 class="card-title">Cheese Naan</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2114,7 +2114,7 @@
             <div class="card-details">
                 <h5 class="card-title">Cheese Garlic Naan</h5>
                 <h6 class="card-price">Price: ₹85/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2132,7 +2132,7 @@
             <div class="card-details">
                 <h5 class="card-title">Kulcha</h5>
                 <h6 class="card-price">Price: ₹25/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2150,7 +2150,7 @@
             <div class="card-details">
                 <h5 class="card-title">Butter Kulcha</h5>
                 <h6 class="card-price">Price: ₹30/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2168,7 +2168,7 @@
             <div class="card-details">
                 <h5 class="card-title">Masala Kulcha</h5>
                 <h6 class="card-price">Price: ₹50/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2186,7 +2186,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Kulcha</h5>
                 <h6 class="card-price">Price: ₹60/-</h6>
-                <p class="card-text">Category: Roti (Tandoor)</p>
+                <p class="card-text ">Category: Roti (Tandoor)</p>
             </div>
         </div>
         <div>
@@ -2204,7 +2204,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mix Veg - H</h5>
                 <h6 class="card-price">Price: ₹80/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2222,7 +2222,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mix Veg - F</h5>
                 <h6 class="card-price">Price: ₹130/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2240,7 +2240,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Masala</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2258,7 +2258,7 @@
             <div class="card-details">
                 <h5 class="card-title">Mushroom Kadai</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2276,7 +2276,7 @@
             <div class="card-details">
                 <h5 class="card-title">Baby Corn Masala</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2294,7 +2294,7 @@
             <div class="card-details">
                 <h5 class="card-title">Baby Corn Butter Masala</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2312,7 +2312,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Butter Masala - H</h5>
                 <h6 class="card-price">Price: ₹90/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2330,7 +2330,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Butter Masala - F</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2348,7 +2348,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Kadai</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2366,7 +2366,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Handi</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2384,7 +2384,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Punjabi</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2402,7 +2402,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Lababdar</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2420,7 +2420,7 @@
             <div class="card-details">
                 <h5 class="card-title">Dal Makhni</h5>
                 <h6 class="card-price">Price: ₹110/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2438,7 +2438,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Jalfrezi</h5>
                 <h6 class="card-price">Price: ₹170/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2456,7 +2456,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Korma</h5>
                 <h6 class="card-price">Price: ₹180/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2474,7 +2474,7 @@
             <div class="card-details">
                 <h5 class="card-title">Paneer Tikka Butter Masala (8PC)</h5>
                 <h6 class="card-price">Price: ₹190/-</h6>
-                <p class="card-text">Category: Indian (Veg)</p>
+                <p class="card-text ">Category: Indian (Veg)</p>
             </div>
         </div>
         <div>
@@ -2492,7 +2492,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Curry (2PC)</h5>
                 <h6 class="card-price">Price: ₹155/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2510,7 +2510,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Masala (2PC)</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2528,7 +2528,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Kadai (2PC)</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2546,7 +2546,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Handi (2PC)</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2564,7 +2564,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Punjabi (2PC)</h5>
                 <h6 class="card-price">Price: ₹165/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2582,7 +2582,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Lababdar (2PC)</h5>
                 <h6 class="card-price">Price: ₹210/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2600,7 +2600,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Chatpata (2PC)</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2618,7 +2618,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Butter Masala (2PC)</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2636,7 +2636,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Tikka Butter Masala (8PC)</h5>
                 <h6 class="card-price">Price: ₹210/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2654,7 +2654,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Reshmi Butter Masala (8PC)</h5>
                 <h6 class="card-price">Price: ₹210/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2672,7 +2672,7 @@
             <div class="card-details">
                 <h5 class="card-title">Shanky Special Chicken (4PC)</h5>
                 <h6 class="card-price">Price: ₹270/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2690,7 +2690,7 @@
             <div class="card-details">
                 <h5 class="card-title">Chicken Do-Pyaza (2PC)</h5>
                 <h6 class="card-price">Price: ₹160/-</h6>
-                <p class="card-text">Category: Indian (Non-Veg)</p>
+                <p class="card-text non-veg-tag">Category: Indian (Non-Veg)</p>
             </div>
         </div>
         <div>
@@ -2708,7 +2708,7 @@
             <div class="card-details">
                 <h5 class="card-title">Veg Hot & Sour Soup</h5>
                 <h6 class="card-price">Price: ₹75/-</h6>
-                <p class="card-text">Category: Veg Soup</p>
+                <p class="card-text veg-tag">Category: Veg Soup</p>
             </div>
         </div>
         <div>

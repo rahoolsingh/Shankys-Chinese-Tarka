@@ -39,10 +39,24 @@ h1 {
     background: var(--gradient) !important;
     color: #fff;
 }
+.active{
+    background: var(--gradient) !important;
+    color: #fff;
+
+}
 
 .menu {
     margin-top: 100px;
     width: 100%;
+}
+
+.veg-tag::after{
+    content: '‎ ◙';
+    color: green;
+}
+.non-veg-tag::after{
+    content: '‎ ◙';
+    color: red;
 }
 
 .card {
