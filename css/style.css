@@ -3834,6 +3834,7 @@ html.tablet .ui-to-top {
 	top: 0;
 	left: 0;
 	right: 0;
+	background-color: #0c0c0c;
 	z-index: 1080;
 }
 
