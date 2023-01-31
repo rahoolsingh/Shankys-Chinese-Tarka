@@ -21,6 +21,10 @@ button:focus {
 	outline: none !important;
 }
 
+.separator{
+	height: 130px;
+}
+
 button::-moz-focus-inner {
 	border: 0;
 }
@@ -3856,7 +3860,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-nav-item.focus .rd-nav-link, .rd-navbar-static .rd-nav-item.opened .rd-nav-link {
-	color: #0c0c0c;
+	color: #0c0c0c;	
 	background: transparent;
 }
 
