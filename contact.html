@@ -95,18 +95,18 @@
       <div class="row">
         <div class="col-md-6">
           <div class="form_container">
-            <form action="">
+            <form name="contact" netlify>
               <div>
-                <input type="text" class="form-control" placeholder="Your Name" />
+                <input type="text" name="name" class="form-control" placeholder="Your Name"  />
               </div>
               <div>
-                <input type="text" class="form-control" placeholder="Phone Number" />
+                <input type="text" name="Mobile" class="form-control" placeholder="Phone Number" />
               </div>
               <div>
-                <input type="email" class="form-control" placeholder="Your Email" />
+                <input type="email" name="email" class="form-control" placeholder="Your Email" />
               </div>
               <div>
-                <select class="form-control nice-select wide">
+                <select class="form-control nice-select wide" name="Occassion">
                   <option value="" disabled selected>
                     Occassion?
                   </option>
@@ -125,10 +125,10 @@
                 </select>
               </div>
               <div>
-                <input type="date" class="form-control" placeholder="Select a date"/>
+                <input type="date" class="form-control" name="date" placeholder="Select a date"/>
               </div>
               <div class="btn_box">
-                <button>
+                <button type="submit">
                   Book Now
                 </button>
               </div>
