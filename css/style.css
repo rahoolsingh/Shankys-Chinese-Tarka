@@ -38,7 +38,7 @@ body {
 
 h1,
 h2 {
-  font-family: 'Dancing Script', cursive;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
 .heading_container {
@@ -437,7 +437,7 @@ a:focus {
 }
 
 .about_section {
-  background: #222831;
+  background: #0d1117;
   width: 100vw;
   color: #ffffff;
   overflow-x: hidden;
@@ -470,16 +470,18 @@ a:focus {
   margin-top: 15px;
 }
 
-.about_section .detail-box a {
+.about_section .detail-box a, .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #ffbe33;
+  background-color: #ff9c33;
   color: #ffffff;
   border-radius: 45px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
   margin-top: 15px;
+  font-weight: bold;
+  box-shadow: #00000090 1px 1px 5px;
 }
 
 .about_section .detail-box a:hover {
@@ -489,14 +491,14 @@ a:focus {
 .about_section_inverted{
   background: #ffffff;
   width: 100vw;
-  color: #222831;
+  color: #0d1117;
   overflow-x: hidden;
 }
 
 .about_section_inverted .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #222831de;
+  background-color: #0d1117de;
   color: #ffffff;
   border-radius: 45px;
   -webkit-transition: all 0.3s;
@@ -641,7 +643,7 @@ a:focus {
 }
 
 .client_section .box .detail-box {
-  background-color: #222831;
+  background-color: #0d1117;
   color: #ffffff;
   padding: 25px 25px 15px 25px;
   border-radius: 5px;
@@ -754,7 +756,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #222831;
+  background-color: #0d1117;
   color: #ffffff;
   padding: 75px 0 40px 0;
   text-align: center;
@@ -831,7 +833,7 @@ a:focus {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: #222831;
+  color: #0d1117;
   width: 30px;
   height: 30px;
   border-radius: 100%;
@@ -860,3 +862,23 @@ a:focus {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+@media screen and (max-width: 600px) {
+  .slider_section {
+    display: none;
+  }
+  .image-slider {
+    display: block;
+  }
+  .bg-box{
+    background-image: url("../images/hero-bg.jpg");
+  }
+  .bg-box img{
+    opacity: 0;
+  }
+}
+@media screen and (min-width: 600px) {
+  .image-slider {
+    display: none;
+  }
+}
