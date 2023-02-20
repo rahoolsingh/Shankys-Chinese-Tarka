@@ -902,7 +902,7 @@ a:focus {
     /* margin-bottom: ; */
     /* box-shadow: #000000 1px 1px 5px; */
   }
-  .about_section .container .col-md-6 .img-box{
+  .about-img-box{
     border-radius: 20px;
     box-shadow: #000000 1px 1px 5px;
     margin-bottom: 10px;
