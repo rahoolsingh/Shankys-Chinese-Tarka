@@ -907,7 +907,7 @@ a:focus {
     box-shadow: #000000 1px 1px 5px;
     margin-bottom: 10px;
   }
-  .about_section .container .col-md-6{
+  .about-col-md-6{
     margin-bottom: -40px;
   }
   .owner-profile img{
